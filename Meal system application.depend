@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528560280 source:e:\anik\projects\meal system application\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
